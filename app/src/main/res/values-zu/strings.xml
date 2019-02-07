@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_main">ukuthengiswa kwemoto</string>
+    <string name="instruction">Faka imininingwane yokuthenga imoto.</string>
+    <string name="car_price">Iyini intengo yemoto yakho?</string>
+    <string name="cash_down_payment">Iyini imali yakho yokukhokhwa?</string>
+    <string name="choose_loan_term">Khetha isikhathi sakho semali mboleko</string>
+    <string name="years3">Iminyaka 3</string>
+    <string name="years4">Iminyaka 4</string>
+    <string name="years5">Iminyaka 5</string>
+    <string name="go_data_entry">Buyela ekungeneni kwedatha</string>
+    <string name="loan_summary">Isifinyezo sakho somholo</string>
+    <string name="loan_report_button_text">Umbiko Wokukhokhelwa</string>
+    <string name="enter_price">Faka intengo ...</string>
+    <string name="enter_down_payment">Faka phansi inkokhelo ...</string>
+    <string name="car_sticker_price">Intengo yemoto:</string>
+    <string name="down_payment">Inkokhelo yokubambisa:</string>
+    <string name="tax_amount">Inani lentela:</string>
+    <string name="total_cost">Izindleko Zonke:</string>
+    <string name="borrowed_amount">Inani elibolekiwe:</string>
+    <string name="interest_amount">Isithakazelo Inani:</string>
+    <string name="sales_tax_rate">Isilinganiso sentela yokuthengisa:</string>
+    <string name="monthly_payment">Ukukhokha ngenyanga:</string>
+    <string name="loan_term">Isikweletu:</string>
+</resources>
